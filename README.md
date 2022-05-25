@@ -1,2 +1,3 @@
 # Aerospace
-Aerospace technology
+Aerospace technology represent the most advanced technologies in the world. Some specific areas we want to develop is communications, propulsion, recovery, launch, monitoring and atitude control.
+To allow code reusability and allow online testing we are proposing a RPI Zero as main plataform running scripts based on Python and PHP over Apache. It provides strong processing capabilites, built in communication and many interfaces. It improove developing and allow wide collaboration with developers in a single device simultaneosly. To the main software that support all subsystems in RPI Zero, operating system (OS), we are calling SateliteOS.

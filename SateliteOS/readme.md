@@ -7,6 +7,6 @@ The hardware is based on Raspberry Pi Zero V2 running Linux. A module called GY-
 <img src="./Hardware/GY-91-MPU9250-BMP280.png" width=160><br>
 A GSM module (SIM800L) can be useful for balloons that can travel long distances sending sms to inform data from sensors like location, high and many other parameters.
 <br><img src="./Hardware/GSM-SMS-SIM800L.jpg" width=160><br>
-The last module is the GPS (NEO6M) offering location and global time to help register the location.
+The last module is the GPS (NEO6M) offering location and global time to help register the location.<br>
 <img src="./Hardware/NEO6M-GPS-Module.jpg" width=260><br>
 

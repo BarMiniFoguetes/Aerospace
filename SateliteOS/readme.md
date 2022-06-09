@@ -1,6 +1,7 @@
 
 Satelite OS is a complete solution of hardware and software that offer sensors, communication, interface and software libraries for those who wants to develop techologies for rockets, satelites and metereological baloons.
 <br><img src="./Hardware/hardware-Satelite-OS.jpg" width=600><br>
+<img src="./Hardware/protoboard.png" width=600><br>
 <br><img src="./Image/www-sateliteOS.jpg" width=600><br>
 The hardware is based on Raspberry Pi Zero V2 running Linux. A module called GY-91 that combines MPU9250 and BMP280 offers accelerometer, digital compass, gyroscope, barometric pressure and temperature readings.<br>
 <br><img src="./Hardware/RPI Zero V2.png" width=300> 

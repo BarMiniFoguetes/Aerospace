@@ -1,4 +1,4 @@
-
+# Satelite OS
 Satelite OS is a complete solution of hardware and software that offer sensors, communication, interface and software libraries for those who wants to develop techologies for rockets, satelites and metereological baloons.<br><br>
 To collect in real time all sensors we have a web interface that show all data available from sensors and also trigger the state to launch or scrub. When in launch mode all data is saved in a file and will offer a complete set of data from ground to apogee and landing.<br><br>
 An algorithm detects apogee be reading accelerometers em looking for microgravity (near zero G) that happens when a rocket reach maximum height. After that the algorithm starts looking for spike in acceleration reading that happens in lading phase.<br><br>

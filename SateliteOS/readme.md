@@ -5,6 +5,7 @@ Satelite OS is a complete solution of hardware and software that offer sensors, 
 <br> The solution has a web interface and is a ready to launch mission for rockets. When power on, the system enters in a launch mode and stores data
 of sensors by an algorithm that detects apogy and landing, creating campains for future analisys. To power this system we use a set of 7 AAA bateries. The complete weight of hardware and batteries is around 165g.<br>
 The hardware may be based on Raspberry Pi Zero V2 running Linux or Banana PI M2 Zero. A module called GY-91 that combines MPU9250 and BMP280 offers accelerometer, digital compass, gyroscope, barometric pressure and temperature readings.<br>
+<br><img src="./Hardware/bananaPI-M2.jpg" width=300> 
 <br><img src="./Hardware/RPI Zero V2.png" width=300> 
 <img src="./Hardware/GY-91-MPU9250-BMP280.png" width=160><br>
 A GSM module (SIM800L) can be useful for balloons that can travel long distances sending sms to inform data from sensors like location, high and many other parameters.
